@@ -1,0 +1,1 @@
+$Day3_Input = Get-Content ./input.txt
